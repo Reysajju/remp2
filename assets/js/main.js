@@ -106,7 +106,7 @@ $(function () {
 
       // Typed js
     $(".typed").typed({
-        strings: ["Classifieds Ads.", " Buy, Sell, Rent.", "Exchange in one Click."],
+        strings: ["Event Planner.", " Birthday Party.", "Wedding Ceremoney.", "Nikkah Cermoney"],
         // Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
         stringsElement: null,
         // typing speed
